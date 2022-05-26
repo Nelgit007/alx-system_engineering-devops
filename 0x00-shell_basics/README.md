@@ -9,3 +9,4 @@ This dirctory contains a script that will move betty file from a directory to a 
 A script for my first delete
 A script for first directory deletion
 A script that list files and hidden files in specified directoy and in a particular order
+A script that print the type of file with name iamafile
