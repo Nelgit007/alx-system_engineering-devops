@@ -7,3 +7,4 @@ This directory contains a script that creates a new directory in /tmp
 This directory contains a script that changes from a directory to previous working directroy
 This dirctory contains a script that will move betty file from a directory to a specified directory
 A script for my first delete
+A script for first directory deletion
