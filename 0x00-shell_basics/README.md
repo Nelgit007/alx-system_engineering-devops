@@ -5,3 +5,4 @@ This directory contains a script that list all files including hidden files
 This directory contains a script that list file digits only
 This directory contains a script that creates a new directory in /tmp
 This directory contains a script that changes from a directory to previous working directroy
+This dirctory contains a script that will move betty file from a directory to a specified directory
