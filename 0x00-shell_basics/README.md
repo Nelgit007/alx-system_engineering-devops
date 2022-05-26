@@ -3,3 +3,4 @@ This directory contains a script that changes the working directory to users hom
 This directory contains a script that  long list all contents in a working directory
 This directory contains a script that list all files including hidden files
 This directory contains a script that list file digits only
+This directory contains a script that creates a new directory in /tmp
