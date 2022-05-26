@@ -4,3 +4,4 @@ This directory contains a script that  long list all contents in a working direc
 This directory contains a script that list all files including hidden files
 This directory contains a script that list file digits only
 This directory contains a script that creates a new directory in /tmp
+This directory contains a script that changes from a directory to previous working directroy
