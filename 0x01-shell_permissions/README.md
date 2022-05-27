@@ -9,3 +9,4 @@ A script that grants file permission to all
 A script that grants no file permission to user and group, but all file permission to others
 A script that grants specified file permissions to user, group and others
 A script that mirros the permission of one fie to another file
+A script that adds executable permission to sub directory without affecting file permisiions in these directory
