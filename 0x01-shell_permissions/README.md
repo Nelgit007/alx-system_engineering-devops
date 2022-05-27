@@ -12,3 +12,4 @@ A script that mirros the permission of one fie to another file
 A script that adds executable permission to sub directory without affecting file permisiions in these directory
 A script thatmakes a new directory in working directory
 A script that changes the group ownership for the file hello
+A script that changes file ownership and group for a working directory
