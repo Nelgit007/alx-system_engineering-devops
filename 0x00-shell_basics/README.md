@@ -12,3 +12,4 @@ A script that list files and hidden files in specified directoy and in a particu
 A script that print the type of file with name iamafile
 A script to create symbolic link
 A script that copy only the newer versions of html files from a working directory to the parent directory
+A script that moves all files beginning with an upper case letter
