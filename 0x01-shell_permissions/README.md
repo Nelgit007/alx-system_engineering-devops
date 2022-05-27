@@ -5,4 +5,4 @@ A script that chnages file ownership
 A scritp that create an empty file
 A script tha adds executable permision to file owner
 A script that give multiple file permissions
-
+A script that grants file permission to all
