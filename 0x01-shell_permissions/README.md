@@ -7,3 +7,4 @@ A script tha adds executable permision to file owner
 A script that give multiple file permissions
 A script that grants file permission to all
 A script that grants no file permission to user and group, but all file permission to others
+A script that grants specified file permissions to user, group and others
