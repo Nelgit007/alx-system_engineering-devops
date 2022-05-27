@@ -14,3 +14,4 @@ A script thatmakes a new directory in working directory
 A script that changes the group ownership for the file hello
 A script that changes file ownership and group for a working directory
 A script that changes directory ownership of a directory with symbolic link
+A script that changes file ownership only in its owned by guillaume
