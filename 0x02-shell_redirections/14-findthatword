@@ -1,1 +1,2 @@
-#!/bin/bash word
+#!/bin/bash
+egrep 'root' /etc/passwd
