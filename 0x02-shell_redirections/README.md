@@ -12,3 +12,4 @@ A script tha count all directories in a directoriy incluiding hidden dir, exclud
 A script that opens 10 newest file, opens one file per line, sorts from the newest to oldest 
 a script that takes a list of words as input and prints only words that appear exactly once.
 Display lines containing the pattern “root” from the file /etc/passwd
+A script that display the number of lines that contain the pattern “bin” in the file /etc/passwd
